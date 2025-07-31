@@ -7,6 +7,8 @@ Para rodar este projeto na sua máquina,por favor digite:
 ```
 node app.js
 ```
+![Static Badge](https://img.shields.io/badge/DESENVOLVIMENTO-pink)
+
 # Meu Projeto Incrível
 Este projeto é uma aplicação que ajuda os usúarios agerenciar suas tarefas.
 ## Instalação
